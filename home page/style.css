@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: #282a2d;
+}
+
+ .navbar{
+    width: 100%;
+    height: 80px;
+    background-color: #0e1013;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+
+ img{
+    height: 80px;
+    width: 80px;
+
+     
+ }
+
+ input{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    border: 2px solid black;
+ }
+ 
+
+ .nav-links a{
+    text-decoration: none;
+    margin-left: 18px;
+    font-size: 20px;
+    color: white        ;
+ }
+
+ .nav-links a:hover{
+    background-color: #3c4043;
+    border-radius: 5px;
+ }
+
+
+ .main-section{
+    width: 100%;
+    height: 350px;
+    background-color: #0e1013;
+     margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+    
+    
+ }
+
+
+ .section-one{
+    height: 300px;
+    width: 30%;
+    background-color: #202124;
+    border-radius: 5px;
+    margin-top: 30px;
+
+
+ }
+
+ .h1{
+   color: white;
+   text-align: center;
+ }
+
+ .far{
+    width: 365px;
+    height: 265px;
+    
+ }
+
+ .section-two{
+    height: 300px;
+    width: 30%;
+    background-color: aqua  ;
+ }
+
+ .main-footer{
+   width: 100%;
+   height: 300px;
+   background-color: #0e1013;
+   margin-top: 70px;
+   display: flex;
+   justify-content: space-around;
+   border-radius: 10px;
+
+ }
+
+ .foot-part-one{
+   height: 250px;
+   width: 25%;
+   background-color: orange;
+   margin-top: 25px;
+   border-radius: 10px;
+   
+ }
+
+ .foot-part-two{
+   height: 250px;
+   width: 25%;
+   background-color: #282a2d;
+   margin-top: 25px;
+   border-radius: 10px;
+   padding: 5px;
+    
+   
+ }
+
+ .h2{
+   color: white;
+   font-weight: 700;
+   text-align: center;
+   margin-top: 20px;
+ }
+
+ .p{
+   color: white;
+   text-align: center;
+   margin-top: 40px;
+
+ }
+
+ .foot-part-three{
+   height: 250px;
+   width: 25%;
+   background-color: #282a2d;
+   margin-top: 25px;
+   border-radius: 10px;
+   
+ }
+
+ .cars{
+   height: 250px;
+   width: 100%;
+   border-radius: 5px;
+ }
